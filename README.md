@@ -17,3 +17,5 @@ For more information, please refer to http://www.nltk.org/_modules/nltk/stem/isr
 
 Please note steps are derived from http://www.nltk.org/_modules/nltk/stem/isri.html#ISRIStemmer.stem
 
+## Install requirements 
+```pip install -r requirements```
