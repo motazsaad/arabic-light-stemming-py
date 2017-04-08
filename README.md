@@ -19,3 +19,17 @@ Please note steps are derived from http://www.nltk.org/_modules/nltk/stem/isri.h
 
 ## Install requirements 
 ```pip install -r requirements```
+
+## Arguments 
+```
+usage: light_stem.py [-h] -i INFILE -o OUTFILE
+
+performs light stemming for Arabic words.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -i INFILE, --infile INFILE
+                        input file.
+  -o OUTFILE, --outfile OUTFILE
+                        out file.
+```
